@@ -4,6 +4,8 @@
     This sketch sends a message to a TCP server
 
 */
+
+//This is version commite
 #define OV5642_CHIPID_HIGH 0x300a
 #define OV5642_CHIPID_LOW 0x300b
 #define VSYNC_LEVEL_MASK     0x02  // 0 = High active ,    1 = Low active
